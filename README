@@ -1,0 +1,3 @@
+This is one of my previous homework assignments. This uses BufferedReader, String Tokenizer, and Hashmap.
+
+The program gets user input and iterates through all the words and see if they exist in the english dictionary text file. If the word is misspelled, it goes through an iteration using the apha string (a-z) until it finds words in the dictionary that aligns with its iteration. It then spits out suggestions.
